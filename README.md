@@ -1,3 +1,3 @@
-# bakul_app
+# Bakul_Application_Customer
 
-workshop 2 project
+Part of PSM 2 project for Bakul Application. This is the Customer part. 2/4
